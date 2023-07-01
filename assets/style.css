@@ -1,0 +1,62 @@
+.card{
+   color: black !important;
+}
+
+.card h5{
+   text-align: center;
+}
+
+.card h3{
+   font-size : 25px;
+}
+
+.card-header{
+   background-color: unset;
+   border-bottom: unset;
+   padding-bottom: 0px;
+}
+
+.card{
+   --bs-card-spacer-y : unset;
+   --bs-card-border-width : unset;
+   --bs-card-border-radius : unset;
+}
+
+
+#my-dropdown{
+   width: 200px;
+   padding-top: 20px;
+   width: 50%;
+   margin: auto;
+}
+
+/*.graf{
+   justify-content: center;
+   display: flex;
+   align-items: center;
+   margin-top: 20px;
+}*/
+
+.all_part [class^="col-"]{
+   padding: unset;
+}
+
+.all_part{
+   margin-top: 20px;
+   margin-bottom: 50px;
+}
+ 
+
+.kpi{
+   width: 100%;
+   text-align: center;
+}
+
+.bullets{
+   padding-left:20px;
+   padding-top: 20px;
+}
+
+.bullets h6{
+   text-align: center;
+}
